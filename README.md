@@ -91,9 +91,4 @@ I’m passionate about continuous learning, optimizing application performance, 
 
 - 📧 **Email:** [ravuriprasanth46@gmail.com](mailto:ravuriprasanth46@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/prasanth-ravuri](https://www.linkedin.com/in/prasanth-ravuri)  
-- 🧑‍💻 **GitHub:** [github.com/yourusername](https://github.com/prasanthravuri)  
-
----
-
-⭐️ *“Strive for clean code, scalable systems, and continuous improvement — one commit at a time.”*  
 
